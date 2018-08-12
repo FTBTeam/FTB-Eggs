@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "meta=0": { "model": "dragon_egg" },
+    "meta=1": { "model": "dragon_egg" },
+    "meta=2": { "model": "dragon_egg" },
+    "meta=3": { "model": "dragon_egg" },
+    "meta=4": { "model": "dragon_egg" },
+    "meta=5": { "model": "dragon_egg" },
+    "meta=6": { "model": "dragon_egg" },
+    "meta=7": { "model": "dragon_egg" },
+    "meta=8": { "model": "dragon_egg" },
+    "meta=9": { "model": "dragon_egg" },
+    "meta=10": { "model": "dragon_egg" },
+    "meta=11": { "model": "dragon_egg" },
+    "meta=12": { "model": "dragon_egg" },
+    "meta=13": { "model": "dragon_egg" },
+    "meta=14": { "model": "dragon_egg" },
+    "meta=15": { "model": "dragon_egg" },
+    "inventory": { "model": "dragon_egg" }
+  }
+}
